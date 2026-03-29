@@ -17,5 +17,3 @@ function capitalizeWords(string) {
   }
   return newString;
 }
-
-// console.log(capitalizeWords("hello world from javascript"))
