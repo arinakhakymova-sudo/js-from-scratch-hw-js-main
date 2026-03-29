@@ -17,3 +17,5 @@ function capitalizeWords(string) {
   }
   return newString;
 }
+
+module.exports = capitalizeWords;
