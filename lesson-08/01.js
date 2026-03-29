@@ -15,7 +15,6 @@ function capitalizeWords(string) {
       newString += string[i];
     }
   }
-  return newString;
+  return newString
 }
 
-module.exports = capitalizeWords;
