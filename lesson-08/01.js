@@ -14,8 +14,8 @@ function capitalizeWords(string) {
     } else {
       newString += string[i];
     }
-  return newString;
   }
+  return newString;
 }
 
 // console.log(capitalizeWords("hello world from javascript"))
